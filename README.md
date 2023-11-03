@@ -7,5 +7,29 @@ We reproduce results from the following papers that introduced two special trans
 
 The objective is to harness the power of Transformer models for multivariate time series forecasting with a focus on improved efficiency and accuracy.
 
-Weights and Biases link for the project:
+Weights and Biases link for visualizations:
 https://wandb.ai/kirteshpatel98/transformer_timeseries
+
+## Instruction:
+Before running the code please clone the OG time series repository into the patchTST folder to import the model architecture.
+<div class="code-snippet">
+    <button class="copy-button" onclick="copyCode(this)">Copy</button>
+    <pre>
+        <code>
+            git clone https://github.com/yuqinie98/PatchTST
+        </code>
+    </pre>
+</div>
+
+## Install dependent packages:
+<div class="code-snippet">
+    <button class="copy-button" onclick="copyCode(this)">Copy</button>
+    <pre>
+        <code>
+            conda env create -n myenv -f environment.yml
+        </code>
+    </pre>
+</div>
+
+
+
