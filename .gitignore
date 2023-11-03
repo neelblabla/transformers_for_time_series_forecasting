@@ -5,3 +5,5 @@
 *.ppt
 *.pth
 wandb
+tsai
+PatchTST
