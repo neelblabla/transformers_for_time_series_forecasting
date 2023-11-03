@@ -26,7 +26,7 @@ Before running the code please clone the OG time series repository into the patc
     <button class="copy-button" onclick="copyCode(this)">Terminal</button>
     <pre>
         <code>
-            conda env create -n myenv -f environment.yml
+            conda env create -n myenv -f transformer_timeseries.yml
         </code>
     </pre>
 </div>
