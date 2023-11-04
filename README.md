@@ -5,7 +5,7 @@ We reproduce results from the following papers that introduced two special trans
 1) PatchTST - "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers" (https://doi.org/10.48550/arXiv.2211.14730)
 2) Informer - "Expanding the prediction capacity in long sequence time-series forecasting" (https://doi.org/10.1016/j.artint.2023.103886) + (https://doi.org/10.48550/arXiv.2012.07436)
 
-The objective was to harness the power of Transformer models for multivariate time series forecasting with a focus on improved efficiency and accuracy.
+Onjective:  To harness the power of Transformer models for multivariate time series forecasting with a focus on improved efficiency and accuracy.
 
 ## Results:
 The results obtained by both the models are presented below aside to their counterparts listed in the PatchTST introduction paper of 2023. 
