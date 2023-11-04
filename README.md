@@ -7,7 +7,7 @@ We reproduce results from the following papers that introduced two special trans
 
 Objective:  To harness the power of Transformer models for multivariate time series forecasting with a focus on improved efficiency and accuracy.
 
-## Results:
+### Results:
 The results obtained by both the models are presented below aside to their counterparts listed in the PatchTST introduction paper of 2023. 
 
 ![image](https://github.com/neelblabla/transformers_for_time_series_forecasting/assets/114079228/0ddc430c-a130-4a60-825d-0d1220a76e27)
@@ -17,7 +17,7 @@ As evident, our model implementations managed to reproduce results in close prox
 Weights and Biases link for visualizations:
 https://wandb.ai/kirteshpatel98/transformer_timeseries
 
-Instruction for Demo:
+### Instruction for Demo:
 Before running the code please clone the OG time series repository into the patch-tst folder to import the model architecture.
 <div class="code-snippet">
     <button class="copy-button" onclick="copyCode(this)">Terminal</button>
@@ -28,7 +28,7 @@ Before running the code please clone the OG time series repository into the patc
     </pre>
 </div>
 
-### Install dependent packages:
+Install dependent packages:
 <div class="code-snippet">
     <button class="copy-button" onclick="copyCode(this)">Terminal</button>
     <pre>
