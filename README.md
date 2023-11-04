@@ -7,6 +7,8 @@ We reproduce results from the following papers that introduced two special trans
 
 Objective:  To harness the power of Transformer models for multivariate time series forecasting with a focus on improved efficiency and accuracy.
 
+Details of the implementation are documented in the PDF report (Multivariate_Long_Sequence_Time-Series_Forecasting_with_SOTA_Transformers.pdf) made available in the repo.
+
 ### Results:
 The results obtained by both the models are presented below aside to their counterparts listed in the PatchTST introduction paper of 2023. 
 
