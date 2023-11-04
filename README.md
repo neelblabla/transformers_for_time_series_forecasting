@@ -17,7 +17,7 @@ As evident, our model implementations managed to reproduce results in close prox
 Weights and Biases link for visualizations:
 https://wandb.ai/kirteshpatel98/transformer_timeseries
 
-## Instruction for Demo:
+Instruction for Demo:
 Before running the code please clone the OG time series repository into the patch-tst folder to import the model architecture.
 <div class="code-snippet">
     <button class="copy-button" onclick="copyCode(this)">Terminal</button>
