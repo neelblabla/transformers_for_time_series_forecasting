@@ -21,24 +21,14 @@ https://wandb.ai/kirteshpatel98/transformer_timeseries
 
 ### Instruction for Demo:
 Before running the code please clone the OG time series repository into the patch-tst folder to import the model architecture.
-<div class="code-snippet">
-    <button class="copy-button" onclick="copyCode(this)">Terminal</button>
-    <pre>
-        <code>
-            git clone https://github.com/yuqinie98/PatchTST
-        </code>
-    </pre>
-</div>
+```
+git clone https://github.com/yuqinie98/PatchTST
+```
 
 Install dependent packages:
-<div class="code-snippet">
-    <button class="copy-button" onclick="copyCode(this)">Terminal</button>
-    <pre>
-        <code>
-            conda env create -n myenv -f transformer_timeseries.yml
-        </code>
-    </pre>
-</div>
+```
+conda env create -n myenv -f transformer_timeseries.yml
+```        
 
 
 
