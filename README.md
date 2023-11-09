@@ -1,6 +1,6 @@
 # Multivariate Long Sequence Time-Series Forecasting with SOTA Transformers
 
-We reproduce results from the following papers that introduced two special transformer architectures for forecasting long sequence time-series data:- 
+We reproduce results from the following papers that introduced two special state-of-the-art transformer architectures for forecasting long sequence time-series data:- 
 
 1) PatchTST - "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers" (https://doi.org/10.48550/arXiv.2211.14730)
 2) Informer - "Expanding the prediction capacity in long sequence time-series forecasting" (https://doi.org/10.1016/j.artint.2023.103886) + (https://doi.org/10.48550/arXiv.2012.07436)
